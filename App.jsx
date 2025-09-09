@@ -361,31 +361,31 @@
 
 
 
-import React from "react";
-import Employeedetails from "./Backend/userdetails.jsx";
-function App(){
-  return(
-    <>
-    <Employeedetails/>
-   
-    </>
-  );
-}
-export default App 
-
-
-//BUTTON COMPONENT BRO C
 // import React from "react";
-// import Button from './BROCODE/Buttoncomponent/Button1';
+// import Employeedetails from "./Backend/userdetails.jsx";
 // function App(){
 //   return(
 //     <>
-//     <Button/>
+//     <Employeedetails/>
    
 //     </>
 //   );
 // }
 // export default App 
+
+
+// BUTTON COMPONENT BRO C
+import React from "react";
+import Button from './BROCODE/Buttoncomponent/Button1';
+function App(){
+  return(
+    <>
+    <Button/>
+   
+    </>
+  );
+}
+export default App 
 
 
 
