@@ -1,0 +1,77 @@
+h1{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color:darkslategray;
+    font-size: 25px;
+}
+
+.main1{
+    height:90vh;
+    /* border:2px solid black; */
+    display: flex;
+    margin-top: 20px;
+}
+.main1 .islider{
+    width:50%;
+    /* border:2px solid black; */
+
+}
+.main1 .slidercontent{
+    width:50%;
+    /* border:2px solid black; */
+  padding-top: 30px;
+}
+
+
+ 
+.main2{
+    height:90vh;
+    /* border:2px solid black; */
+    display: flex;
+    
+}
+.main2 .islider{
+    width:50%;
+    /* border:2px solid black; */
+    padding-top: 30px;
+}
+
+.main2 .slidercontent{
+    width:50%;
+    /* border:2px solid black; */
+}
+
+
+
+
+.main3{
+    height:90vh;
+    /* border:2px solid black; */
+    display: flex;
+  
+}
+.main3 .islider{
+    width:50%;
+    /* border:2px solid black; */
+}
+.main3 .slidercontent{
+    width:50%;
+    /* border:2px solid black; */
+    padding-top: 30px;
+} 
+
+
+  .slick1{
+        height:80vh;
+   
+    }
+   .slick1 img{
+        height:100%;
+        width:90%;
+        /* opacity: 0.4; */
+        position: relative;
+        left:5%;
+    }
+   
+

@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.add{
+    height:40px;
+    width:100px;
+    border:2px solid blue;
+    background-color: blue;
+    color:white;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left:30%;
+    margin-bottom: 30px;
+}
+th,td{
+    /* border:2px solid black; */
+   padding:20px;
+   border-collapse: collapse;
+
+}
+table{
+    box-shadow: 0 0 30px rgb(227, 203, 203);
+    border:none;
+    border-radius: 10px;
+}
+.edit,.del{
+    background-color:black;
+    color:white;
+    border:none;
+    border-radius: 5px;
+}
+.del{
+    margin-left: 10px;
+}

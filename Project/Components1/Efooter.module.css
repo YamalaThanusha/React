@@ -1,0 +1,60 @@
+.Efootermain {
+    height: 50vh;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;     
+    padding-top: 10px; 
+    background-color: #081c15;     
+}
+
+.heading {
+    /* border: 2px solid black; */
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: white;
+    font-size: 40px;
+    padding: 5px 20px;
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.navbar {
+    width: 40%;
+    height: 20%;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    margin-top: 0px;
+    padding-top: 0px;
+    color:white;
+   
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    padding: 0;
+    margin: 0;
+    gap:80px;
+
+}
+
+.navbar li {
+    cursor: pointer;
+}
+.icons{
+    padding-top:50px;
+    display: flex;
+    gap:50px;
+    color:white;
+}
+p{
+    padding: 50px;
+    font-size: 18px;
+    color:white;
+}
