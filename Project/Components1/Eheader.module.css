@@ -1,0 +1,63 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+
+}
+
+.main {
+    height: 10vh;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1rem;
+    background-color: #081c15;
+    
+}
+
+.heading {
+    width: 20%;
+    height: 100%;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color:white;
+    font-size: 40px;
+    
+}
+
+.nav {
+    width: 60%;
+    height: 100%;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-right: 50px;
+    font-size: 22px;
+
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color:white;
+
+}
+
+.nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    padding: 0;
+    margin: 0;
+
+}
+
+.nav li {
+    cursor: pointer;
+}
+

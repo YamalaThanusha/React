@@ -1,0 +1,21 @@
+body{
+background-color: aqua;
+}
+.slick{
+height:90vh;
+margin:30px 60px;
+border:2px solid red;
+
+}
+.slick1{
+    height:80vh;
+    width:30%;
+    margin:0px 10%;
+    border:2px solid blue;
+}
+.image{
+    height:100%;
+    width:80%;
+}
+
+
